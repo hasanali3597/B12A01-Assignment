@@ -1,0 +1,42 @@
+*{
+    margin: 30px;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1240;
+    margin: 0 auto;
+    height: 100px;
+    background-color: wheat;
+
+}
+nav button {
+    color: wheat;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    font-weight: bolder;
+    height: 30px;
+}
+div{
+    text-align: center;
+    height: 905px;
+    width: 237;
+}
+h1{
+    color: #4E47FF;
+}
+data{
+    margin: 158px;
+    padding: 158px;
+}
+.him{
+    font-weight: bolder;
+    margin: 20px;
+    color: #252432;
+}
+.simay{
+    background-color: #4E47FF ;
+    color: wheat;
+    border-radius: 5px;
+}
