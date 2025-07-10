@@ -16,27 +16,61 @@ nav button {
     background-color: #4E47FF;
     border-radius: 10px;
     font-weight: bolder;
-    height: 30px;
+    height: 48px;
+    width: 174;
 }
 div{
     text-align: center;
-    height: 905px;
+    height: 205px;
     width: 237;
 }
 h1{
     color: #4E47FF;
-}
-data{
-    margin: 158px;
-    padding: 158px;
 }
 .him{
     font-weight: bolder;
     margin: 20px;
     color: #252432;
 }
+/* banner style */
+.color{
+    color: #4E47FF;
+}
 .simay{
     background-color: #4E47FF ;
     color: wheat;
     border-radius: 5px;
+    
+}
+.wc-mini{
+    height: 328px;
+    width: 403px;
+    border-radius: 30px;
+}
+header{
+    max-width: 1140;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    background-color: #4E47FF ;
+    color: wheat;
+    height: 48px;
+    width: 229px;
+    border-radius: 15px;
+}
+.selim{
+  color: #252432;
+}
+.mannan{
+  
+   height: 49px;
+   width: 517px;
+   margin: 15px;
+   color: black;
+}
+.samim{ 
+     justify-content: space-between;
 }
