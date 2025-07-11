@@ -71,6 +71,22 @@ header{
    margin: 15px;
    color: black;
 }
-.samim{ 
-     justify-content: space-between;
+/* .samim{  */
+     
+main{
+    justify-content: space-between;
+    
+}
+
+
+.samim-hasan{
+    display: flex;
+  
+}
+.banner-section{
+height: 206px;
+width: 856px;
+margin: 0 auto;
+text-align: center;
+display: flex;
 }
