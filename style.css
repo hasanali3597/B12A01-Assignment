@@ -90,3 +90,31 @@ margin: 0 auto;
 text-align: center;
 display: flex;
 }
+.section{
+    height: 697px;
+    width: 1140px;
+    margin: 0 auto;
+}
+h2{
+    color: #000000;
+    font-weight: bolder;
+    font-size: 55px;
+    height: 60px;
+}
+.button-color{
+    background-color: #4E47FF;
+    color: wheat;
+     width: 195px;
+     height: 48px;
+     border-radius: 10px;
+}
+.img-siz{
+    width: 860px;
+    height: 373px;
+    border-radius: 40px;
+}
+.section-2{
+    width: 1140px;
+    height: 705px;
+    margin: 150px auto;
+}
